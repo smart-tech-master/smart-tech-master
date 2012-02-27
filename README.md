@@ -27,7 +27,5 @@ Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> ex
 <p>
 <br>
 
-<summary><b>Random Joke Generator</b></summary>
-
 <summary><b>Profile View Counter</b></summary>
 <img src="https://komarev.com/ghpvc/?username=blackstorm0514" />
