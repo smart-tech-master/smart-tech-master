@@ -11,6 +11,6 @@
 
 <div>
         
-![visitors](https://visitor-badge.glitch.me/badge?page_id=prestonkevin.prestonkevin&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=prestonkevin.prestonkevin)
 
 </div>
