@@ -25,15 +25,6 @@ Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> ex
 <br>🔸 FrontEnd - React.js, React-Native, Vue.js
 <br>🔸 BackEnd - Node, Express, Laravel
 <p>
-
-<h2>ℹ️ &nbsp;Github Info</h2>
-
-  <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="300em" src="https://github-readme-stats.vercel.app/api?username=blackstorm0514&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="blackstorm0514" align = "center"/>
-</p>
-
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=blackstorm0514&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 <br>
 
 <summary><b>Random Joke Generator</b></summary>
