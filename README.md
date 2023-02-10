@@ -9,7 +9,7 @@
 ## 🧑 About me:
 
 <p>
-I am working as a <b>Blockchan Full Stack Engineer</b> for 6 years and have developed many projects according to clients' needs.<br>
+I am working as a <b>Blockchan Full Stack Engineer</b> for 4 years and have developed many projects according to clients' needs.<br>
 I am a <b>self-motivated</b> expert with a solid work ethic and a productive <b>self-starter</b>, which alongside my aptitude for learning, keeps me updated. <br>
 I am an <b>ambitious man</b> with rich experience.<br>
 Creative, sophisticated, dedicated engineer with imaginative and efficient solutions for large-scale websites.<br>
