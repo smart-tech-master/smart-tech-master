@@ -22,7 +22,7 @@ Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> ex
 <h2>🥇 Specialised in:</h2>
 <p>🔸 BlockChain - Web3, Dapp, NFT Marketplace
   <br>🔸 DAO, DEX, Ethereum, Solidity, Smart Contract
-<br>🔸 FrontEnd - React.js, React-Native, Vue.js
+<br>🔸 FrontEnd - React.js, NextJS
 <br>🔸 BackEnd - Node, Express, Laravel
 <p>
 <br>
